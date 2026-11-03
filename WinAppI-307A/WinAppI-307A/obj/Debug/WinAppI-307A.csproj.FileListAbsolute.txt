@@ -1,0 +1,10 @@
+C:\Users\24301220\source\repos\WinAppI-307A\WinAppI-307A\bin\Debug\WinAppI-307A.exe.config
+C:\Users\24301220\source\repos\WinAppI-307A\WinAppI-307A\bin\Debug\WinAppI-307A.exe
+C:\Users\24301220\source\repos\WinAppI-307A\WinAppI-307A\bin\Debug\WinAppI-307A.pdb
+C:\Users\24301220\source\repos\WinAppI-307A\WinAppI-307A\obj\Debug\WinAppI-307A.csproj.AssemblyReference.cache
+C:\Users\24301220\source\repos\WinAppI-307A\WinAppI-307A\obj\Debug\WinAppI_307A.FormCalculator.resources
+C:\Users\24301220\source\repos\WinAppI-307A\WinAppI-307A\obj\Debug\WinAppI_307A.Properties.Resources.resources
+C:\Users\24301220\source\repos\WinAppI-307A\WinAppI-307A\obj\Debug\WinAppI-307A.csproj.GenerateResource.cache
+C:\Users\24301220\source\repos\WinAppI-307A\WinAppI-307A\obj\Debug\WinAppI-307A.csproj.CoreCompileInputs.cache
+C:\Users\24301220\source\repos\WinAppI-307A\WinAppI-307A\obj\Debug\WinAppI-307A.exe
+C:\Users\24301220\source\repos\WinAppI-307A\WinAppI-307A\obj\Debug\WinAppI-307A.pdb
